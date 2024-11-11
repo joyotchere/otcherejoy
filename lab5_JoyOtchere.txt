@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: joyotchere
+    Linux system name: joyotchere
+    Python executable: /usr/bin/python3
+    Python version: 31012
+    OS Platform: linux
+    Working Directory: /home/joyotchere/ops445/lab5/otcherejoy
+    Start at: Mon Nov 11 11:15:23 2024
+=================================================================
